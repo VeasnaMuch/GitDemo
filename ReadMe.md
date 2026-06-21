@@ -25,3 +25,9 @@ git push origin master {push code to master branch of github}
     switch branch
     --------------
     git checkout <branch name>
+    git switch <branch name>
+
+# Git merge
+    we need to go to branch that we want to merge to first by
+    1. git switch <branch name>
+    2. git merge <other branch name> 
