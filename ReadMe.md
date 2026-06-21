@@ -19,4 +19,9 @@ git push origin master {push code to master branch of github}
     git branch -a {remote branch}
 
     create new branch
+    -----------------
     git checkout -b new_feature
+
+    switch branch
+    --------------
+    git checkout <branch name>
