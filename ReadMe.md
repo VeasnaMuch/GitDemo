@@ -13,6 +13,9 @@ git push origin master {push code to master branch of github}
     git add .
     git commit -m <message>
 
+    or
+    git commit -a -m <message>
+
 # Git Branch
     git branch {check brance}
     git branch -r {local branch}
